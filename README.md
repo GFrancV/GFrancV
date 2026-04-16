@@ -1,5 +1,3 @@
-Hi, I'm `<GFrancV />`
-
 ```typescript
 const gfrancv = {
   role:       "Full-Stack Web Developer",
