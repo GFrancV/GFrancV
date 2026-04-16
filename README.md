@@ -50,12 +50,3 @@ const gfrancv = {
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-## Featured projects
-
-| Project | Stack | Live |
-|---|---|---|
-| [Vilbot](https://github.com/Vilbot-org/bot) | TypeScript · Node.js · MongoDB · Docker | [invite](https://discord.com/oauth2/authorize?client_id=1024599953387044904&permissions=8&scope=bot) |
-| [Markdown Badges](https://github.com/GFrancV/markdown-badges) | Astro · Vue · TypeScript | [demo](https://markdown-badges.vercel.app/) |
-| [Weather App](https://github.com/GFrancV/weather-app) | Vue.js · Chart.js | [demo](https://weather.gfrancv.com/) |
-| [Moodle 3D Viewer](https://github.com/GFrancV/moodle-mod_viewer3d) | PHP · Three.js · GitHub Actions | [plugin](https://moodle.org/plugins/mod_viewer3d) |
